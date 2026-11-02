@@ -1,0 +1,36 @@
+{
+  "name": "أرشيف / جريدة — وثائقي «الثواني الأخيرة»",
+  "bg": "#0D0F12",
+  "ink": "#F4EDDB",
+  "acc": "#C7382A",
+  "clay": "#E2583E",
+  "mut": "#948C7A",
+  "paper": "#E7DBBE",
+  "amber": "#E2AC4C",
+  "teal": "#3D5B5A",
+  "font": "Tajawal",
+  "display": "Tajawal-Black",
+  "body": "IBM Plex Sans Arabic",
+  "num": "Inter",
+  "capStyle": "card",
+  "grade": false,
+  "motion": {
+    "bounce": false
+  },
+  "skill_style": "archive+newsprint",
+  "moves": {
+    "core": [
+      "typewriter",
+      "scanLine",
+      "dynamicIsland"
+    ],
+    "accents": [
+      "videoText",
+      "punchCut"
+    ],
+    "rules": [
+      "jcut"
+    ]
+  },
+  "note": "لوحة مختارة من ستايل الوثائقي × الجريدة؛ لا لون افتراضي من غير ثيم، وكل الألوان مشتقة من هذا الملف."
+}

@@ -1,0 +1,14 @@
+assets/narration_16k.wav
+assets/soundtrack.wav
+assets/transcribe.log
+assets/transcript.json.bak
+assets/p_*.png
+assets/check_*.jpg
+assets/frame_*.jpg
+assets/encoded_*.png
+assets/plates_test.jpg
+assets/contact_sheet.jpg
+renders/sample.mp4
+renders/render.log
+__pycache__/
+*.pyc
